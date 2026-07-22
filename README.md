@@ -53,7 +53,7 @@ https://FIT-dev-AI.github.io/legal-pages/terms.html
 https://FIT-dev-AI.github.io/legal-pages/privacy.html
 ```
 
-## TikTok Developer App Setup
+GitHub Pages deployment: https://FIT-dev-AI.github.io/Html-Postiz
 
 Use these URLs in your TikTok Developer App registration:
 
